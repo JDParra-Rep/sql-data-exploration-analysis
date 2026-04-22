@@ -1,2 +1,2 @@
 # sql-data-exploration-analysis
-This repository contains a collection of SQL scripts demonstrating various analytical techniques, such as changes over time, cumulative, performance, data segmentation, part-to-whole analysis.
+This repository contains a collection of SQL scripts demonstrating various analytical techniques, such as changes over time, cumulative, performance, data segmentation, part-to-whole analysis. This repository contains queries designed to provide reports to data analyst and BI professionals to explore, segment, and analyze data within a relational database. It is divided on exploratory database analysis (EDA), advanced database analysis, and the creation of some reporting tables to be used on a data visualizer tool like Power BI or Tableau. 
